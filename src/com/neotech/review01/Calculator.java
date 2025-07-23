@@ -3,13 +3,21 @@ package com.neotech.review01;
 import java.util.Scanner;
 
 public class Calculator {
+	
+	// this is something new from SABAH.(from Git class)
+	
+			// new method added
+			void test()
+			{
+				
+			}
 
 	public static void main(String[] args) {
 		// Task until 2:33
 		// Ask the user to enter 2 numbers
 		// Ask the user for the operator (+,-,*,/)
-		// Calculate the result using if-else
-		
+		// Calculate the result using if-else		
+	
 		Scanner fatma = new Scanner (System.in);
 		
 		System.out.println("Plese enter the first number:");
