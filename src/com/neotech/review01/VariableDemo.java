@@ -4,6 +4,11 @@ public class VariableDemo { //Class name needs to start from the capital letter.
 
 	// ALWAYS FORMAT YOUR CODE
 	// Command + Shift + f
+	
+	void test () // for Git class
+	{
+		
+	}
 
 	public static void main(String[] args) {
 		
